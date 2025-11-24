@@ -34,5 +34,3 @@ El código principal de validación es:
 
 ```python
 CODIGO_ANALISIS/clia_m_calculos.py
-python CODIGO_ANALISIS/clia_m_calculos.py
-# Salida esperada: Delta N: 2.652
